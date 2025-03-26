@@ -1,0 +1,40 @@
+# 💥 Node dependencies
+**/node_modules/
+**/npm-debug.log*
+**/package-lock.json
+
+# 🔧 Build artifacts
+**/css/*.css
+**/css/*.css.map
+**/css/*.min.css
+**/js/*.js
+**/js/*.map
+**/js/*.min.js
+
+# 👨‍💻 Editor and OS files
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# 🔒 LocalWP files you don't need on GitHub
+local.sql
+*.local
+*.crt
+*.key
+*.env
+
+# 📦 Composer (optional if unused)
+vendor/
+composer.lock
+
+# 🛑 WordPress Core (optional if not modifying core)
+wp-admin/
+wp-includes/
+
+# ✅ Optional: ignore uploads (images/media)
+wp-content/uploads/
+
+# 🔐 Database exports or dumps
+*.sql
+*.sql.gz
