@@ -17,7 +17,7 @@ This is the official WordPress final project for CS50B, built using the Understr
 
 ## ✅ Final Project Requirements Checklist
 
-- [ ] Use WordPress as the CMS platform
+- [x] Use WordPress as the CMS platform
 - [ ] Customize and develop using the Understrap theme (Bootstrap-based)
 - [ ] Include a minimum of **ten fully-developed pages**
 - [ ] All media content is properly credited and reused under public domain or appropriate license
@@ -28,7 +28,7 @@ This is the official WordPress final project for CS50B, built using the Understr
 
 ## 🔨 Development Progress
 
-- [ ] Install WordPress and Understrap locally with WP Local
+- [x] Install WordPress and Understrap locally with WP Local
 - [ ] Customize theme colors and styles using SCSS in `src/sass/`
 - [ ] Use human-centered design practices from [Design Kit](http://www.designkit.org/)
 - [ ] Conduct inspiration and ideation phases and document findings in WordPress pages or posts
